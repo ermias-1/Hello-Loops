@@ -10,9 +10,9 @@ using System.Windows.Forms;
 
 namespace Hello_Loops
 {
-    public partial class Form1 : Form
+    public partial class frmHelloLoops : Form
     {
-        public Form1()
+        public frmHelloLoops()
         {
             InitializeComponent();
         }

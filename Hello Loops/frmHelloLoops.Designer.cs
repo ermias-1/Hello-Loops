@@ -1,6 +1,6 @@
 ﻿namespace Hello_Loops
 {
-    partial class Form1
+    partial class frmHelloLoops
     {
         /// <summary>
         /// Required designer variable.
