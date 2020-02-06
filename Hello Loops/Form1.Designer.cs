@@ -98,7 +98,7 @@
             this.Controls.Add(this.btnDoWhile);
             this.Controls.Add(this.btnWhile);
             this.Name = "Form1";
-            this.Text = "Form1";
+            this.Text = "Loops and Message Box Dialogs";
             ((System.ComponentModel.ISupportInitialize)(this.numDialogBoxes)).EndInit();
             this.ResumeLayout(false);
             this.PerformLayout();
